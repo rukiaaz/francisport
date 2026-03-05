@@ -339,7 +339,7 @@ const goTo = (id, e) => {
 function CopyEmail() {
   const [copied, setCopied] = useState(false)
   const copy = () => {
-    navigator.clipboard.writeText("tamayofrancisniel@gmail.com").then(() => {
+    navigator.clipboard.writeText("francistamayo55@gmail.com").then(() => {
       setCopied(true); setTimeout(() => setCopied(false), 2000)
     })
   }
