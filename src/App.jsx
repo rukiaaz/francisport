@@ -546,7 +546,7 @@ export default function App() {
         <section id="contact" className="sep">
           <Rev className="sh"><span className="st">Contact</span><div className="sl"/></Rev>
           <Rev className="soc" delay={.1}>
-            <a href="https://francisnieltamayoo.vercel.app" target="_blank" rel="noreferrer" className="slink">Portfolio ↗</a>
+            <a href="https://francis.aresei.store" target="_blank" rel="noreferrer" className="slink">Portfolio ↗</a>
             <a href="https://github.com/rukiaaz" target="_blank" rel="noreferrer" className="slink">GitHub ↗</a>
             <a href="https://linkedin.com/in/francisnieltamayo" target="_blank" rel="noreferrer" className="slink">LinkedIn ↗</a>
             <CopyEmail/>
